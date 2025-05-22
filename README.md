@@ -1,5 +1,5 @@
 # Project01-SupervisedTraining
-Esse repositório teve como objetivo inicial o desenvolvimento de um modelo de classificação para prever se iria chover ou não no próximo dia de acordo com dados históricos de temperatura, umidade e precipitação, utilizando o dataset [usa_rainfall](https://kaggle.com/datasets/waqi786/usa-rainfall-prediction-dataset-2024-2025). O modelo foi desenvolvido utilizando a biblioteca Scikit-learn e o algoritmo Random Forest.
+Esse repositório teve como objetivo inicial o desenvolvimento de um modelo de classificação para prever se iria chover ou não no próximo dia de acordo com dados históricos de temperatura, umidade e precipitação, utilizando o [dataset usa_rainfall](https://kaggle.com/datasets/waqi786/usa-rainfall-prediction-dataset-2024-2025). O modelo foi desenvolvido utilizando a biblioteca Scikit-learn e o algoritmo Random Forest.
 
 
 ## Projeto inicial [Projeto Rainfall](./rainfall_descontinuado_por_baixa_qualidade_de_dataset/usa_rainfall_classificacao.ipynb)
